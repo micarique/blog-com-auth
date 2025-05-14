@@ -6,7 +6,7 @@ Este é o front-end do projeto **CodeSocial**, desenvolvido com **Next.js 14** u
 
 ## ⚙️ Tecnologias
 
-- Next.js 14 com App Router
+- Next.js 15 com App Router
 - TypeScript + TSX
 - TailwindCSS
 - Axios
