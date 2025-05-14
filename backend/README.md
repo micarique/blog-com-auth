@@ -7,7 +7,7 @@ Esta é a API RESTful do projeto **CodeSocial**, desenvolvida com **Spring Boot*
 ## 🔧 Tecnologias
 
 - Java 17
-- Spring Boot 3
+- Spring Boot 
 - Spring Security
 - JWT (JSON Web Token)
 - PostgreSQL
